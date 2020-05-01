@@ -1,9 +1,9 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: Audio Readings
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /readings/index.html
 eleventyNavigation:
-  key: Blog
+  key: Audio Readings
   order: 2
 ---
